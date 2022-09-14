@@ -1,0 +1,12 @@
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198401_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198402_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198403_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198404_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198405_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198406_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198407_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198408_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198409_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198410_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198411_V3.2.nc4
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/1984/GPCPMON_L3_198412_V3.2.nc4
