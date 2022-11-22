@@ -1,0 +1,3 @@
+https://docserver.gesdisc.eosdis.nasa.gov/public/project/MEaSUREs/GPCP/GPCP_ATBD_V3.2_Monthly.pdf
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/doc/README.GPCPV3.2_Monthly.pdf
+https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/2017/GPCPMON_L3_201708_V3.2.nc4
